@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- O visual das telas é definido em Compose (ui/theme). Este tema só vale até o Compose desenhar. -->
+    <style name="Theme.Klin_Kercher" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+    </style>
+</resources>

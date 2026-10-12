@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Klin Kercher</string>
+    <!-- Nome que aparece na lista "Compartilhar" de outros aplicativos -->
+    <string name="share_label">Verificar com Klin Kercher</string>
+    <!-- Item do menu que aparece ao selecionar um texto -->
+    <string name="process_text_label">Verificar link</string>
+    <!-- Opção "Abrir com" para arquivos -->
+    <string name="open_file_label">Verificar arquivo</string>
+</resources>

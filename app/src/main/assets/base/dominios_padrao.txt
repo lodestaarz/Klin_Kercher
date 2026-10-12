@@ -1,0 +1,4 @@
+# Domínios fictícios para testar o bloqueio. ".test" é reservado e nunca existe de verdade.
+# Experimente analisar: https://login.golpe-exemplo.test/entrar
+golpe-exemplo.test
+phishing-exemplo.test
